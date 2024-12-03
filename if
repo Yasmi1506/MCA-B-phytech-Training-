@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main(){
+int num =10;
+if (num>10){
+printf("the number is positive.\n");
+}else{
+printf("Number is non positive.\n");
+}
+return 0;
+}
+
